@@ -10,6 +10,7 @@
 #include <cstdint>
 #include <stdexcept>
 #include <tuple>
+#include "basics.hpp"
 
 // maybe someday ill implement simd to make this more efficient
 namespace Nate {
